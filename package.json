@@ -1,0 +1,21 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node index.js port=8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsliangshan/leetcode.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsliangshan/leetcode/issues"
+  },
+  "homepage": "https://github.com/lsliangshan/leetcode#readme"
+}
